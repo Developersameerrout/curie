@@ -1,1 +1,1 @@
-# curie
+# curi
